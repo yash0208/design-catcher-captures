@@ -1,5 +1,35 @@
 [
   {
+    "domainKey": "console.cloud.google.com",
+    "title": "Agent Platform – Google Cloud console",
+    "sourceUrl": "https://console.cloud.google.com/agent-platform/overview?project=aryansh-2c7f0",
+    "capturedAt": "2026-05-31T06:44:32.474Z",
+    "keywords": [
+      "form",
+      "buttons",
+      "navigation",
+      "input",
+      "card",
+      "dashboard",
+      "corporate",
+      "modern",
+      "clean",
+      "minimal",
+      "responsive",
+      "material-design",
+      "cloud-platform",
+      "overview-page",
+      "data-management"
+    ],
+    "pageType": "saas-dashboard",
+    "categories": [
+      "technology",
+      "cloud-computing",
+      "software",
+      "data-management"
+    ]
+  },
+  {
     "domainKey": "example.com",
     "capturedAt": "2026-05-31T12:00:00.000Z",
     "title": "Example"
@@ -11,8 +41,8 @@
   },
   {
     "domainKey": "github.com",
-    "title": "GitHub",
-    "capturedAt": "2026-05-31T06:11:51.721Z"
+    "capturedAt": "2026-05-31T06:11:51.721Z",
+    "title": "GitHub"
   },
   {
     "domainKey": "google.com",
