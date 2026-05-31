@@ -1,9 +1,8 @@
 [
   {
     "domainKey": "console.cloud.google.com",
-    "title": "Agent Platform – Google Cloud console",
     "sourceUrl": "https://console.cloud.google.com/agent-platform/overview?project=aryansh-2c7f0",
-    "capturedAt": "2026-05-31T06:44:32.474Z",
+    "pageType": "saas-dashboard",
     "keywords": [
       "form",
       "buttons",
@@ -21,13 +20,14 @@
       "overview-page",
       "data-management"
     ],
-    "pageType": "saas-dashboard",
+    "capturedAt": "2026-05-31T06:44:32.474Z",
     "categories": [
       "technology",
       "cloud-computing",
       "software",
       "data-management"
-    ]
+    ],
+    "title": "Agent Platform – Google Cloud console"
   },
   {
     "domainKey": "example.com",
@@ -48,6 +48,35 @@
     "domainKey": "google.com",
     "capturedAt": "2026-05-31T05:50:17.877Z",
     "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail"
+  },
+  {
+    "domainKey": "linear.app",
+    "title": "Job Hunter › Issues",
+    "sourceUrl": "https://linear.app/yash0208/project/job-hunter-d71035d8cf3a/issues",
+    "capturedAt": "2026-05-31T07:02:58.366Z",
+    "keywords": [
+      "project-management",
+      "issue-tracking",
+      "task-management",
+      "web-application",
+      "saas",
+      "dashboard",
+      "dark-mode",
+      "minimalist",
+      "mobile-first",
+      "responsive",
+      "modern-ui",
+      "clean",
+      "software-interface",
+      "productivity-tool"
+    ],
+    "pageType": "project management application",
+    "categories": [
+      "technology",
+      "software",
+      "productivity",
+      "business"
+    ]
   },
   {
     "domainKey": "moodle.concordia.ca",
