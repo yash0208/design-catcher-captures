@@ -11,7 +11,12 @@
   },
   {
     "domainKey": "google.com",
-    "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail",
-    "capturedAt": "2026-05-31T05:50:17.877Z"
+    "capturedAt": "2026-05-31T05:50:17.877Z",
+    "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail"
+  },
+  {
+    "domainKey": "moodle.concordia.ca",
+    "title": "Dashboard | Moodle",
+    "capturedAt": "2026-05-31T06:00:19.815Z"
   }
 ]
