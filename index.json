@@ -1,12 +1,17 @@
 [
   {
     "domainKey": "example.com",
-    "title": "Example",
-    "capturedAt": "2026-05-31T12:00:00.000Z"
+    "capturedAt": "2026-05-31T12:00:00.000Z",
+    "title": "Example"
   },
   {
     "domainKey": "getdesign.md",
     "capturedAt": "2026-05-31T05:36:22.992Z",
     "title": "Design System Analysis: Apple"
+  },
+  {
+    "domainKey": "google.com",
+    "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail",
+    "capturedAt": "2026-05-31T05:50:17.877Z"
   }
 ]
