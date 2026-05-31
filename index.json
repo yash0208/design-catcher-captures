@@ -51,9 +51,8 @@
   },
   {
     "domainKey": "linear.app",
-    "title": "Job Hunter › Issues",
     "sourceUrl": "https://linear.app/yash0208/project/job-hunter-d71035d8cf3a/issues",
-    "capturedAt": "2026-05-31T07:02:58.366Z",
+    "pageType": "project management application",
     "keywords": [
       "project-management",
       "issue-tracking",
@@ -70,17 +69,48 @@
       "software-interface",
       "productivity-tool"
     ],
-    "pageType": "project management application",
+    "capturedAt": "2026-05-31T07:02:58.366Z",
     "categories": [
       "technology",
       "software",
       "productivity",
       "business"
-    ]
+    ],
+    "title": "Job Hunter › Issues"
   },
   {
     "domainKey": "moodle.concordia.ca",
     "capturedAt": "2026-05-31T06:00:19.815Z",
     "title": "Dashboard | Moodle"
+  },
+  {
+    "domainKey": "tealhq.com",
+    "title": "Resume & Job Search Tools: Land Interviews 6x Faster",
+    "sourceUrl": "https://www.tealhq.com/",
+    "capturedAt": "2026-05-31T07:06:37.088Z",
+    "keywords": [
+      "job-search",
+      "resume-builder",
+      "career-tools",
+      "ats-friendly",
+      "job-tracker",
+      "resume-templates",
+      "modern",
+      "professional",
+      "saas",
+      "hero",
+      "carousel",
+      "testimonial",
+      "pricing",
+      "card",
+      "navigation"
+    ],
+    "pageType": "saas marketing",
+    "categories": [
+      "technology",
+      "human-resources",
+      "career-development",
+      "saas"
+    ]
   }
 ]
