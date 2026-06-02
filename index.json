@@ -1,9 +1,8 @@
 [
   {
     "domainKey": "cavada-template.webflow.io",
-    "title": "Cavada - Coffee & Bakery Webflow Template powered by TheSprkl UI Kit.",
     "sourceUrl": "https://cavada-template.webflow.io/",
-    "capturedAt": "2026-06-01T18:46:37.554Z",
+    "pageType": "coffee & bakery landing",
     "keywords": [
       "coffee-shop",
       "bakery",
@@ -21,13 +20,14 @@
       "cozy",
       "cards"
     ],
-    "pageType": "coffee & bakery landing",
+    "capturedAt": "2026-06-01T18:46:37.554Z",
     "categories": [
       "food-and-beverage",
       "hospitality",
       "local-business",
       "retail"
-    ]
+    ],
+    "title": "Cavada - Coffee & Bakery Webflow Template powered by TheSprkl UI Kit."
   },
   {
     "domainKey": "console.cloud.google.com",
@@ -58,6 +58,35 @@
       "data-management"
     ],
     "title": "Agent Platform – Google Cloud console"
+  },
+  {
+    "domainKey": "cred.club",
+    "title": "CRED. not everyone gets it.",
+    "sourceUrl": "https://cred.club/",
+    "capturedAt": "2026-06-02T00:40:58.445Z",
+    "keywords": [
+      "dark-mode",
+      "high-contrast",
+      "bold-typography",
+      "modern",
+      "minimal",
+      "financial-services",
+      "fintech",
+      "credit-cards",
+      "landing-page",
+      "marketing",
+      "video-background",
+      "hero",
+      "card",
+      "footer",
+      "responsive"
+    ],
+    "pageType": "fintech marketing",
+    "categories": [
+      "technology",
+      "finance",
+      "mobile-app"
+    ]
   },
   {
     "domainKey": "example.com",
