@@ -1,5 +1,35 @@
 [
   {
+    "domainKey": "bettermistakes.com",
+    "title": "Brand Design & Web Development Agency | Better Mistakes",
+    "sourceUrl": "https://www.bettermistakes.com/",
+    "capturedAt": "2026-06-06T18:10:35.186Z",
+    "keywords": [
+      "agency",
+      "brand-design",
+      "web-development",
+      "b2b-tech",
+      "portfolio",
+      "services-page",
+      "hero-section",
+      "video-background",
+      "testimonial-carousel",
+      "call-to-action",
+      "marquee",
+      "card-layout",
+      "modern-design",
+      "bold-typography",
+      "high-contrast"
+    ],
+    "pageType": "agency homepage",
+    "categories": [
+      "technology",
+      "design",
+      "business-services",
+      "marketing"
+    ]
+  },
+  {
     "domainKey": "cavada-template.webflow.io",
     "sourceUrl": "https://cavada-template.webflow.io/",
     "pageType": "coffee & bakery landing",
@@ -144,9 +174,8 @@
   },
   {
     "domainKey": "stripe.com",
-    "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
     "sourceUrl": "https://stripe.com/en-ca",
-    "capturedAt": "2026-06-06T15:35:18.901Z",
+    "pageType": "fintech landing page",
     "keywords": [
       "fintech",
       "payments",
@@ -164,13 +193,14 @@
       "pricing",
       "cards"
     ],
-    "pageType": "fintech landing page",
+    "capturedAt": "2026-06-06T15:35:18.901Z",
     "categories": [
       "technology",
       "finance",
       "business-services",
       "e-commerce"
-    ]
+    ],
+    "title": "Stripe | Financial Infrastructure to Grow Your Revenue"
   },
   {
     "domainKey": "tealhq.com",
