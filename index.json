@@ -1,9 +1,8 @@
 [
   {
     "domainKey": "bettermistakes.com",
-    "title": "Brand Design & Web Development Agency | Better Mistakes",
     "sourceUrl": "https://www.bettermistakes.com/",
-    "capturedAt": "2026-06-06T18:10:35.186Z",
+    "pageType": "agency homepage",
     "keywords": [
       "agency",
       "brand-design",
@@ -21,13 +20,14 @@
       "bold-typography",
       "high-contrast"
     ],
-    "pageType": "agency homepage",
+    "capturedAt": "2026-06-06T18:10:35.186Z",
     "categories": [
       "technology",
       "design",
       "business-services",
       "marketing"
-    ]
+    ],
+    "title": "Brand Design & Web Development Agency | Better Mistakes"
   },
   {
     "domainKey": "cavada-template.webflow.io",
@@ -171,6 +171,36 @@
     "domainKey": "moodle.concordia.ca",
     "capturedAt": "2026-05-31T06:00:19.815Z",
     "title": "Dashboard | Moodle"
+  },
+  {
+    "domainKey": "reactbits.dev",
+    "title": "React Bits - Liquid Ether",
+    "sourceUrl": "https://reactbits.dev/backgrounds/liquid-ether",
+    "capturedAt": "2026-06-07T17:29:49.655Z",
+    "keywords": [
+      "component-library",
+      "ui-components",
+      "documentation",
+      "demo-page",
+      "dark-mode",
+      "modern",
+      "minimal",
+      "dynamic",
+      "hero",
+      "navigation",
+      "sidebar",
+      "buttons",
+      "input",
+      "cards",
+      "scroll-reveal"
+    ],
+    "pageType": "component showcase",
+    "categories": [
+      "technology",
+      "developer-tools",
+      "design-systems",
+      "ui-ux"
+    ]
   },
   {
     "domainKey": "stripe.com",
