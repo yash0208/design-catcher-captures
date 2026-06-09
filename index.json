@@ -1,5 +1,34 @@
 [
   {
+    "domainKey": "apple.com",
+    "title": "iPad - Apple",
+    "sourceUrl": "https://www.apple.com/ipad/",
+    "capturedAt": "2026-06-09T11:04:38.762Z",
+    "keywords": [
+      "ipad",
+      "product-page",
+      "landing-page",
+      "consumer-electronics",
+      "technology",
+      "minimal",
+      "corporate",
+      "hero",
+      "pricing",
+      "faq",
+      "cards",
+      "navigation",
+      "footer",
+      "imagery",
+      "buttons"
+    ],
+    "pageType": "product landing",
+    "categories": [
+      "technology",
+      "e-commerce",
+      "consumer-electronics"
+    ]
+  },
+  {
     "domainKey": "bettermistakes.com",
     "sourceUrl": "https://www.bettermistakes.com/",
     "pageType": "agency homepage",
@@ -120,9 +149,8 @@
   },
   {
     "domainKey": "en.wikipedia.org",
-    "title": "KK (singer) - Wikipedia",
     "sourceUrl": "https://en.wikipedia.org/wiki/KK_(singer)",
-    "capturedAt": "2026-06-09T10:55:56.142Z",
+    "pageType": "encyclopedia article",
     "keywords": [
       "encyclopedia-article",
       "knowledge-base",
@@ -140,13 +168,14 @@
       "buttons",
       "footer"
     ],
-    "pageType": "encyclopedia article",
+    "capturedAt": "2026-06-09T10:55:56.142Z",
     "categories": [
       "education",
       "reference",
       "information",
       "biography"
-    ]
+    ],
+    "title": "KK (singer) - Wikipedia"
   },
   {
     "domainKey": "example.com",
