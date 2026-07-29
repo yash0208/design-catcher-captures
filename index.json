@@ -198,6 +198,37 @@
     "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail"
   },
   {
+    "domainKey": "ko-fi.com",
+    "title": "View Ko-fi's posts",
+    "sourceUrl": "https://ko-fi.com/supportkofi/posts??action=posts",
+    "capturedAt": "2026-07-29T19:00:52.584Z",
+    "keywords": [
+      "creator-platform",
+      "blog-feed",
+      "posts-page",
+      "community",
+      "card-layout",
+      "navbar-sticky",
+      "button",
+      "footer",
+      "hero",
+      "carousel",
+      "testimonial",
+      "pricing",
+      "minimal",
+      "modern",
+      "responsive"
+    ],
+    "pageType": "creator post feed",
+    "categories": [
+      "creator-economy",
+      "community",
+      "blogging",
+      "content-publishing",
+      "web-application"
+    ]
+  },
+  {
     "domainKey": "linear.app",
     "sourceUrl": "https://linear.app/yash0208/project/job-hunter-d71035d8cf3a/issues",
     "pageType": "project management application",
@@ -353,9 +384,8 @@
   },
   {
     "domainKey": "zhipin.com",
-    "title": "「南京招聘」20-50K-2026年南京人才招聘信息 - BOSS直聘",
     "sourceUrl": "https://www.zhipin.com/web/geek/jobs?city=101190100&multiSubway=95%3A3873_3872_3871_3870_3869_3868,45%3A1088_1087_1086_1085_1084_1083_1082_1081_1080&position=110101&jobType=1901&salary=406&industry=100020",
-    "capturedAt": "2026-07-22T04:04:53.803Z",
+    "pageType": "job search results",
     "keywords": [
       "job-board",
       "job-listing",
@@ -373,13 +403,14 @@
       "corporate",
       "carousel"
     ],
-    "pageType": "job search results",
+    "capturedAt": "2026-07-22T04:04:53.803Z",
     "categories": [
       "employment",
       "human-resources",
       "technology",
       "business"
-    ]
+    ],
+    "title": "「南京招聘」20-50K-2026年南京人才招聘信息 - BOSS直聘"
   },
   {
     "domainKey": "zread.ai",
