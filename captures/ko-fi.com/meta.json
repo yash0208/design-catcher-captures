@@ -1,0 +1,31 @@
+{
+  "domainKey": "ko-fi.com",
+  "title": "View Ko-fi's posts",
+  "sourceUrl": "https://ko-fi.com/supportkofi/posts??action=posts",
+  "capturedAt": "2026-07-29T19:00:52.584Z",
+  "keywords": [
+    "creator-platform",
+    "blog-feed",
+    "posts-page",
+    "community",
+    "card-layout",
+    "navbar-sticky",
+    "button",
+    "footer",
+    "hero",
+    "carousel",
+    "testimonial",
+    "pricing",
+    "minimal",
+    "modern",
+    "responsive"
+  ],
+  "pageType": "creator post feed",
+  "categories": [
+    "creator-economy",
+    "community",
+    "blogging",
+    "content-publishing",
+    "web-application"
+  ]
+}
