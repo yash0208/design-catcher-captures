@@ -1,5 +1,35 @@
 [
   {
+    "domainKey": "99designs.com",
+    "title": "Check out stunning designs from Radovan Ciobanenco | 99designs",
+    "sourceUrl": "https://99designs.com/profiles/radovanciobanenco/designs/1394931",
+    "capturedAt": "2026-08-30T16:33:34.230Z",
+    "keywords": [
+      "navigation",
+      "buttons",
+      "input",
+      "footer",
+      "hero",
+      "card",
+      "lang-en",
+      "designer-profile",
+      "portfolio",
+      "design-showcase",
+      "grid-layout",
+      "modern",
+      "minimal",
+      "pagination",
+      "filter"
+    ],
+    "pageType": "designer portfolio",
+    "categories": [
+      "design",
+      "creative-services",
+      "portfolio",
+      "marketplace"
+    ]
+  },
+  {
     "domainKey": "apple.com",
     "sourceUrl": "https://www.apple.com/ipad/",
     "pageType": "product landing",
@@ -149,9 +179,8 @@
   },
   {
     "domainKey": "creem.io",
-    "title": "Creem",
     "sourceUrl": "https://www.creem.io/",
-    "capturedAt": "2026-08-29T16:29:06.090Z",
+    "pageType": "saas marketing landing",
     "keywords": [
       "saas",
       "software-sales",
@@ -169,13 +198,14 @@
       "cards",
       "hero"
     ],
-    "pageType": "saas marketing landing",
+    "capturedAt": "2026-08-29T16:29:06.090Z",
     "categories": [
       "technology",
       "finance",
       "e-commerce",
       "business-services"
-    ]
+    ],
+    "title": "Creem"
   },
   {
     "domainKey": "en.wikipedia.org",
