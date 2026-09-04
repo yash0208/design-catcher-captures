@@ -1,0 +1,30 @@
+{
+  "domainKey": "127.0.0.1",
+  "title": "Soale",
+  "sourceUrl": "http://127.0.0.1:5500/webdev.html",
+  "capturedAt": "2026-09-04T01:23:52.019Z",
+  "keywords": [
+    "hero",
+    "nav",
+    "footer",
+    "buttons",
+    "card",
+    "carousel",
+    "marquee",
+    "framer-motion",
+    "design-agency",
+    "creative-studio",
+    "product-design",
+    "ai-tech",
+    "dark-mode",
+    "modern",
+    "portfolio"
+  ],
+  "pageType": "creative agency marketing",
+  "categories": [
+    "technology",
+    "design",
+    "marketing",
+    "business-services"
+  ]
+}
