@@ -1,9 +1,8 @@
 [
   {
     "domainKey": "127.0.0.1",
-    "title": "Soale",
     "sourceUrl": "http://127.0.0.1:5500/webdev.html",
-    "capturedAt": "2026-09-04T01:23:52.019Z",
+    "pageType": "creative agency marketing",
     "keywords": [
       "hero",
       "nav",
@@ -21,13 +20,14 @@
       "modern",
       "portfolio"
     ],
-    "pageType": "creative agency marketing",
+    "capturedAt": "2026-09-04T01:23:52.019Z",
     "categories": [
       "technology",
       "design",
       "marketing",
       "business-services"
-    ]
+    ],
+    "title": "Soale"
   },
   {
     "domainKey": "99designs.com",
@@ -286,6 +286,36 @@
     "domainKey": "google.com",
     "capturedAt": "2026-05-31T05:50:17.877Z",
     "title": "Inbox (16,590) - developer.0208@gmail.com - Gmail"
+  },
+  {
+    "domainKey": "hallandsposten.se",
+    "title": "Nyheter – riktig journalistik gör skillnad – Hallandsposten",
+    "sourceUrl": "https://www.hallandsposten.se/",
+    "capturedAt": "2026-09-21T21:27:46.378Z",
+    "keywords": [
+      "news",
+      "journalism",
+      "editorial",
+      "homepage",
+      "article-grid",
+      "carousel",
+      "navbar-sticky",
+      "hero",
+      "video",
+      "card",
+      "footer",
+      "navigation",
+      "local-news",
+      "swedish",
+      "content-heavy"
+    ],
+    "pageType": "news portal",
+    "categories": [
+      "media",
+      "publishing",
+      "local-business",
+      "information"
+    ]
   },
   {
     "domainKey": "ko-fi.com",
