@@ -238,6 +238,35 @@
     "title": "Creem"
   },
   {
+    "domainKey": "defocus.me",
+    "title": "defocus.me — One clear window.",
+    "sourceUrl": "https://defocus.me/",
+    "capturedAt": "2026-10-05T21:32:17.780Z",
+    "keywords": [
+      "navigation",
+      "hero",
+      "feature-grid",
+      "pricing",
+      "faq",
+      "carousel",
+      "cards",
+      "footer",
+      "buttons",
+      "dark-mode",
+      "minimal",
+      "glassmorphism",
+      "mac-app",
+      "productivity-app",
+      "software-landing"
+    ],
+    "pageType": "product landing",
+    "categories": [
+      "technology",
+      "software",
+      "productivity"
+    ]
+  },
+  {
     "domainKey": "en.wikipedia.org",
     "sourceUrl": "https://en.wikipedia.org/wiki/KK_(singer)",
     "pageType": "encyclopedia article",
@@ -535,9 +564,8 @@
   },
   {
     "domainKey": "unifygtm.com",
-    "title": "Unify | Outbound agents for every rep",
     "sourceUrl": "https://www.unifygtm.com/",
-    "capturedAt": "2026-10-04T11:14:28.268Z",
+    "pageType": "saas marketing",
     "keywords": [
       "sales-enablement",
       "outbound-sales",
@@ -555,13 +583,14 @@
       "modern",
       "corporate"
     ],
-    "pageType": "saas marketing",
+    "capturedAt": "2026-10-04T11:14:28.268Z",
     "categories": [
       "technology",
       "sales",
       "business-services",
       "artificial-intelligence"
-    ]
+    ],
+    "title": "Unify | Outbound agents for every rep"
   },
   {
     "domainKey": "zhipin.com",
