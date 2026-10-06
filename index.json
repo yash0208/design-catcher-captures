@@ -239,9 +239,8 @@
   },
   {
     "domainKey": "defocus.me",
-    "title": "defocus.me — One clear window.",
     "sourceUrl": "https://defocus.me/",
-    "capturedAt": "2026-10-05T21:32:17.780Z",
+    "pageType": "product landing",
     "keywords": [
       "navigation",
       "hero",
@@ -259,12 +258,13 @@
       "productivity-app",
       "software-landing"
     ],
-    "pageType": "product landing",
+    "capturedAt": "2026-10-05T21:32:17.780Z",
     "categories": [
       "technology",
       "software",
       "productivity"
-    ]
+    ],
+    "title": "defocus.me — One clear window."
   },
   {
     "domainKey": "en.wikipedia.org",
@@ -345,6 +345,35 @@
       "information"
     ],
     "title": "Nyheter – riktig journalistik gör skillnad – Hallandsposten"
+  },
+  {
+    "domainKey": "jetourglobal.com",
+    "title": "JETOUR G700, JETOUR G700 photos, JETOUR G700 specs, JETOUR G700 review",
+    "sourceUrl": "https://jetourglobal.com/g700",
+    "capturedAt": "2026-10-06T17:51:25.345Z",
+    "keywords": [
+      "automotive",
+      "suv",
+      "vehicle",
+      "product-page",
+      "landing-page",
+      "hero",
+      "carousel",
+      "swiper",
+      "faq",
+      "card",
+      "modern",
+      "corporate",
+      "product-showcase",
+      "off-road",
+      "features"
+    ],
+    "pageType": "automotive product",
+    "categories": [
+      "automotive",
+      "transportation",
+      "technology"
+    ]
   },
   {
     "domainKey": "ko-fi.com",
