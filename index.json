@@ -302,6 +302,36 @@
     "title": "Example"
   },
   {
+    "domainKey": "freehand.ai",
+    "title": "Trade & Compliance AI Agents | Freehand",
+    "sourceUrl": "https://www.freehand.ai/global-trade",
+    "capturedAt": "2026-10-07T18:10:30.638Z",
+    "keywords": [
+      "ai",
+      "global-trade",
+      "trade-compliance",
+      "logistics",
+      "supply-chain",
+      "automation",
+      "customs-duties",
+      "saas",
+      "product-page",
+      "hero",
+      "stats",
+      "feature-grid",
+      "faq",
+      "cta",
+      "video"
+    ],
+    "pageType": "saas product page",
+    "categories": [
+      "technology",
+      "logistics",
+      "finance",
+      "business-services"
+    ]
+  },
+  {
     "domainKey": "getdesign.md",
     "capturedAt": "2026-05-31T05:36:22.992Z",
     "title": "Design System Analysis: Apple"
@@ -348,9 +378,8 @@
   },
   {
     "domainKey": "jetourglobal.com",
-    "title": "JETOUR G700, JETOUR G700 photos, JETOUR G700 specs, JETOUR G700 review",
     "sourceUrl": "https://jetourglobal.com/g700",
-    "capturedAt": "2026-10-06T17:51:25.345Z",
+    "pageType": "automotive product",
     "keywords": [
       "automotive",
       "suv",
@@ -368,12 +397,13 @@
       "off-road",
       "features"
     ],
-    "pageType": "automotive product",
+    "capturedAt": "2026-10-06T17:51:25.345Z",
     "categories": [
       "automotive",
       "transportation",
       "technology"
-    ]
+    ],
+    "title": "JETOUR G700, JETOUR G700 photos, JETOUR G700 specs, JETOUR G700 review"
   },
   {
     "domainKey": "ko-fi.com",
