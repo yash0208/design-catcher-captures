@@ -267,6 +267,36 @@
     "title": "defocus.me — One clear window."
   },
   {
+    "domainKey": "dividedby13.com",
+    "title": "Home • Divided by 13 Amplifiers",
+    "sourceUrl": "https://dividedby13.com/",
+    "capturedAt": "2026-10-10T02:31:08.953Z",
+    "keywords": [
+      "homepage",
+      "brand-website",
+      "product-showcase",
+      "amplifiers",
+      "music-equipment",
+      "hero",
+      "navigation",
+      "footer",
+      "buttons",
+      "marquee",
+      "carousel",
+      "card",
+      "dark-mode",
+      "bold-typography",
+      "premium"
+    ],
+    "pageType": "product marketing homepage",
+    "categories": [
+      "music",
+      "electronics",
+      "manufacturing",
+      "e-commerce"
+    ]
+  },
+  {
     "domainKey": "en.wikipedia.org",
     "sourceUrl": "https://en.wikipedia.org/wiki/KK_(singer)",
     "pageType": "encyclopedia article",
@@ -303,9 +333,8 @@
   },
   {
     "domainKey": "freehand.ai",
-    "title": "Trade & Compliance AI Agents | Freehand",
     "sourceUrl": "https://www.freehand.ai/global-trade",
-    "capturedAt": "2026-10-07T18:10:30.638Z",
+    "pageType": "saas product page",
     "keywords": [
       "ai",
       "global-trade",
@@ -323,13 +352,14 @@
       "cta",
       "video"
     ],
-    "pageType": "saas product page",
+    "capturedAt": "2026-10-07T18:10:30.638Z",
     "categories": [
       "technology",
       "logistics",
       "finance",
       "business-services"
-    ]
+    ],
+    "title": "Trade & Compliance AI Agents | Freehand"
   },
   {
     "domainKey": "getdesign.md",
