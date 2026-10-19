@@ -89,6 +89,36 @@
     "title": "iPad - Apple"
   },
   {
+    "domainKey": "artifact-template.framer.website",
+    "title": "Artifact - Framer Website Template",
+    "sourceUrl": "https://artifact-template.framer.website/",
+    "capturedAt": "2026-10-19T17:48:22.663Z",
+    "keywords": [
+      "landing-page",
+      "saas",
+      "product-marketing",
+      "corporate",
+      "minimal",
+      "clean",
+      "modern",
+      "hero",
+      "pricing-table",
+      "testimonials",
+      "faq",
+      "features",
+      "framer-motion",
+      "card",
+      "multi-section"
+    ],
+    "pageType": "saas marketing",
+    "categories": [
+      "technology",
+      "software",
+      "business",
+      "marketing"
+    ]
+  },
+  {
     "domainKey": "bettermistakes.com",
     "sourceUrl": "https://www.bettermistakes.com/",
     "pageType": "agency homepage",
@@ -468,9 +498,8 @@
   },
   {
     "domainKey": "lifecycle-template.framer.website",
-    "title": "Lifecycle - Framer Website Template",
     "sourceUrl": "https://lifecycle-template.framer.website/",
-    "capturedAt": "2026-10-19T11:58:27.514Z",
+    "pageType": "corporate services landing",
     "keywords": [
       "video",
       "imagery",
@@ -488,14 +517,15 @@
       "operations-management",
       "modern"
     ],
-    "pageType": "corporate services landing",
+    "capturedAt": "2026-10-19T11:58:27.514Z",
     "categories": [
       "technology",
       "business",
       "consulting",
       "sustainability",
       "infrastructure"
-    ]
+    ],
+    "title": "Lifecycle - Framer Website Template"
   },
   {
     "domainKey": "linear.app",
