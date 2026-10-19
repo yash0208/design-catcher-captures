@@ -268,9 +268,8 @@
   },
   {
     "domainKey": "dividedby13.com",
-    "title": "Home • Divided by 13 Amplifiers",
     "sourceUrl": "https://dividedby13.com/",
-    "capturedAt": "2026-10-10T02:31:08.953Z",
+    "pageType": "product marketing homepage",
     "keywords": [
       "homepage",
       "brand-website",
@@ -288,13 +287,14 @@
       "bold-typography",
       "premium"
     ],
-    "pageType": "product marketing homepage",
+    "capturedAt": "2026-10-10T02:31:08.953Z",
     "categories": [
       "music",
       "electronics",
       "manufacturing",
       "e-commerce"
-    ]
+    ],
+    "title": "Home • Divided by 13 Amplifiers"
   },
   {
     "domainKey": "en.wikipedia.org",
@@ -465,6 +465,37 @@
       "web-application"
     ],
     "title": "View Ko-fi's posts"
+  },
+  {
+    "domainKey": "lifecycle-template.framer.website",
+    "title": "Lifecycle - Framer Website Template",
+    "sourceUrl": "https://lifecycle-template.framer.website/",
+    "capturedAt": "2026-10-19T11:58:27.514Z",
+    "keywords": [
+      "video",
+      "imagery",
+      "nav",
+      "footer",
+      "heading",
+      "hero",
+      "card",
+      "framer-motion",
+      "landing-page",
+      "corporate",
+      "business-solutions",
+      "consulting",
+      "sustainability",
+      "operations-management",
+      "modern"
+    ],
+    "pageType": "corporate services landing",
+    "categories": [
+      "technology",
+      "business",
+      "consulting",
+      "sustainability",
+      "infrastructure"
+    ]
   },
   {
     "domainKey": "linear.app",
