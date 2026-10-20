@@ -1,0 +1,30 @@
+{
+  "domainKey": "lifecycle-consulting-webflow-template.webflow.io",
+  "title": "Lifecycle - Webflow HTML Website Template",
+  "sourceUrl": "https://lifecycle-consulting-webflow-template.webflow.io/our-services",
+  "capturedAt": "2026-10-20T13:12:50.348Z",
+  "keywords": [
+    "service-page",
+    "consulting",
+    "logistics",
+    "supply-chain",
+    "data-analytics",
+    "sustainability",
+    "hero-section",
+    "video-background",
+    "testimonial",
+    "stats",
+    "faq",
+    "carousel",
+    "modern",
+    "bold",
+    "professional"
+  ],
+  "pageType": "consulting services landing",
+  "categories": [
+    "technology",
+    "consulting",
+    "logistics",
+    "sustainability"
+  ]
+}
