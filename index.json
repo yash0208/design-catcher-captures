@@ -60,6 +60,36 @@
     "title": "Check out stunning designs from Radovan Ciobanenco | 99designs"
   },
   {
+    "domainKey": "alcazarenergy.com",
+    "title": "Alcazar Energy – Renewable Energy Investment",
+    "sourceUrl": "https://alcazarenergy.com/",
+    "capturedAt": "2026-10-20T16:31:03.144Z",
+    "keywords": [
+      "landing-page",
+      "corporate",
+      "renewable-energy",
+      "investment",
+      "sustainable-investment",
+      "energy-transition",
+      "hero",
+      "video-background",
+      "feature-grid",
+      "cards",
+      "stats",
+      "navigation",
+      "footer",
+      "clean",
+      "modern"
+    ],
+    "pageType": "corporate landing",
+    "categories": [
+      "energy",
+      "finance",
+      "sustainability",
+      "corporate"
+    ]
+  },
+  {
     "domainKey": "apple.com",
     "sourceUrl": "https://www.apple.com/ipad/",
     "pageType": "product landing",
@@ -498,9 +528,8 @@
   },
   {
     "domainKey": "lifecycle-consulting-webflow-template.webflow.io",
-    "title": "Lifecycle - Webflow HTML Website Template",
     "sourceUrl": "https://lifecycle-consulting-webflow-template.webflow.io/our-services",
-    "capturedAt": "2026-10-20T13:12:50.348Z",
+    "pageType": "consulting services landing",
     "keywords": [
       "service-page",
       "consulting",
@@ -518,13 +547,14 @@
       "bold",
       "professional"
     ],
-    "pageType": "consulting services landing",
+    "capturedAt": "2026-10-20T13:12:50.348Z",
     "categories": [
       "technology",
       "consulting",
       "logistics",
       "sustainability"
-    ]
+    ],
+    "title": "Lifecycle - Webflow HTML Website Template"
   },
   {
     "domainKey": "lifecycle-template.framer.website",
