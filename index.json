@@ -90,9 +90,8 @@
   },
   {
     "domainKey": "artifact-template.framer.website",
-    "title": "Artifact - Framer Website Template",
     "sourceUrl": "https://artifact-template.framer.website/",
-    "capturedAt": "2026-10-19T17:48:22.663Z",
+    "pageType": "saas marketing",
     "keywords": [
       "landing-page",
       "saas",
@@ -110,13 +109,14 @@
       "card",
       "multi-section"
     ],
-    "pageType": "saas marketing",
+    "capturedAt": "2026-10-19T17:48:22.663Z",
     "categories": [
       "technology",
       "software",
       "business",
       "marketing"
-    ]
+    ],
+    "title": "Artifact - Framer Website Template"
   },
   {
     "domainKey": "bettermistakes.com",
@@ -741,6 +741,37 @@
       "artificial-intelligence"
     ],
     "title": "Unify | Outbound agents for every rep"
+  },
+  {
+    "domainKey": "yonder-template.framer.website",
+    "title": "Yonder - Adventure Tourism Template for Framer",
+    "sourceUrl": "https://yonder-template.framer.website/",
+    "capturedAt": "2026-10-20T06:58:40.582Z",
+    "keywords": [
+      "adventure-tourism",
+      "travel",
+      "tour-operator",
+      "landing-page",
+      "marketing-site",
+      "dark-mode",
+      "bold-typography",
+      "card-layout",
+      "marquee",
+      "carousel",
+      "framer-motion",
+      "template",
+      "modern",
+      "outdoor-activities",
+      "editorial"
+    ],
+    "pageType": "adventure tourism landing",
+    "categories": [
+      "travel",
+      "tourism",
+      "outdoor",
+      "templates",
+      "business"
+    ]
   },
   {
     "domainKey": "zhipin.com",
