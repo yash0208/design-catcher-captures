@@ -497,6 +497,36 @@
     "title": "View Ko-fi's posts"
   },
   {
+    "domainKey": "lifecycle-consulting-webflow-template.webflow.io",
+    "title": "Lifecycle - Webflow HTML Website Template",
+    "sourceUrl": "https://lifecycle-consulting-webflow-template.webflow.io/our-services",
+    "capturedAt": "2026-10-20T13:12:50.348Z",
+    "keywords": [
+      "service-page",
+      "consulting",
+      "logistics",
+      "supply-chain",
+      "data-analytics",
+      "sustainability",
+      "hero-section",
+      "video-background",
+      "testimonial",
+      "stats",
+      "faq",
+      "carousel",
+      "modern",
+      "bold",
+      "professional"
+    ],
+    "pageType": "consulting services landing",
+    "categories": [
+      "technology",
+      "consulting",
+      "logistics",
+      "sustainability"
+    ]
+  },
+  {
     "domainKey": "lifecycle-template.framer.website",
     "sourceUrl": "https://lifecycle-template.framer.website/",
     "pageType": "corporate services landing",
@@ -744,9 +774,8 @@
   },
   {
     "domainKey": "yonder-template.framer.website",
-    "title": "Yonder - Adventure Tourism Template for Framer",
     "sourceUrl": "https://yonder-template.framer.website/",
-    "capturedAt": "2026-10-20T06:58:40.582Z",
+    "pageType": "adventure tourism landing",
     "keywords": [
       "adventure-tourism",
       "travel",
@@ -764,14 +793,15 @@
       "outdoor-activities",
       "editorial"
     ],
-    "pageType": "adventure tourism landing",
+    "capturedAt": "2026-10-20T06:58:40.582Z",
     "categories": [
       "travel",
       "tourism",
       "outdoor",
       "templates",
       "business"
-    ]
+    ],
+    "title": "Yonder - Adventure Tourism Template for Framer"
   },
   {
     "domainKey": "zhipin.com",
