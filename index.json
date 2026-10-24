@@ -60,10 +60,40 @@
     "title": "Check out stunning designs from Radovan Ciobanenco | 99designs"
   },
   {
+    "domainKey": "airmee.com",
+    "title": "Airmee | Fossil free, fast delivery",
+    "sourceUrl": "https://airmee.com/en/",
+    "capturedAt": "2026-10-24T06:53:42.156Z",
+    "keywords": [
+      "delivery-service",
+      "logistics",
+      "last-mile-delivery",
+      "sustainability",
+      "marketing-page",
+      "company-website",
+      "hero-section",
+      "video-background",
+      "stats-section",
+      "feature-cards",
+      "carousel",
+      "mobile-app",
+      "corporate",
+      "modern",
+      "tech-driven"
+    ],
+    "pageType": "logistics service marketing",
+    "categories": [
+      "technology",
+      "logistics",
+      "transportation",
+      "e-commerce",
+      "sustainability"
+    ]
+  },
+  {
     "domainKey": "alcazarenergy.com",
-    "title": "Alcazar Energy – Renewable Energy Investment",
     "sourceUrl": "https://alcazarenergy.com/",
-    "capturedAt": "2026-10-20T16:31:03.144Z",
+    "pageType": "corporate landing",
     "keywords": [
       "landing-page",
       "corporate",
@@ -81,13 +111,14 @@
       "clean",
       "modern"
     ],
-    "pageType": "corporate landing",
+    "capturedAt": "2026-10-20T16:31:03.144Z",
     "categories": [
       "energy",
       "finance",
       "sustainability",
       "corporate"
-    ]
+    ],
+    "title": "Alcazar Energy – Renewable Energy Investment"
   },
   {
     "domainKey": "apple.com",
