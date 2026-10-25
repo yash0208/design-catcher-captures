@@ -61,9 +61,8 @@
   },
   {
     "domainKey": "airmee.com",
-    "title": "Airmee | Fossil free, fast delivery",
     "sourceUrl": "https://airmee.com/en/",
-    "capturedAt": "2026-10-24T06:53:42.156Z",
+    "pageType": "logistics service marketing",
     "keywords": [
       "delivery-service",
       "logistics",
@@ -81,14 +80,15 @@
       "modern",
       "tech-driven"
     ],
-    "pageType": "logistics service marketing",
+    "capturedAt": "2026-10-24T06:53:42.156Z",
     "categories": [
       "technology",
       "logistics",
       "transportation",
       "e-commerce",
       "sustainability"
-    ]
+    ],
+    "title": "Airmee | Fossil free, fast delivery"
   },
   {
     "domainKey": "alcazarenergy.com",
@@ -832,6 +832,35 @@
       "artificial-intelligence"
     ],
     "title": "Unify | Outbound agents for every rep"
+  },
+  {
+    "domainKey": "wizcommerce.com",
+    "title": "B2B Order Taking App for Wholesale Distributors & Sales Reps | WizOrder",
+    "sourceUrl": "https://wizcommerce.com/product/sales-rep-app/",
+    "capturedAt": "2026-10-25T09:03:01.685Z",
+    "keywords": [
+      "b2b",
+      "wholesale",
+      "sales-app",
+      "order-taking",
+      "saas",
+      "product-page",
+      "ai",
+      "sales-intelligence",
+      "modern",
+      "corporate",
+      "landing-page",
+      "hero",
+      "carousel",
+      "testimonial",
+      "faq"
+    ],
+    "pageType": "b2b saas product",
+    "categories": [
+      "technology",
+      "e-commerce",
+      "business-services"
+    ]
   },
   {
     "domainKey": "yonder-template.framer.website",
