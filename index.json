@@ -835,9 +835,8 @@
   },
   {
     "domainKey": "wizcommerce.com",
-    "title": "B2B Order Taking App for Wholesale Distributors & Sales Reps | WizOrder",
     "sourceUrl": "https://wizcommerce.com/product/sales-rep-app/",
-    "capturedAt": "2026-10-25T09:03:01.685Z",
+    "pageType": "b2b saas product",
     "keywords": [
       "b2b",
       "wholesale",
@@ -855,12 +854,13 @@
       "testimonial",
       "faq"
     ],
-    "pageType": "b2b saas product",
+    "capturedAt": "2026-10-25T09:03:01.685Z",
     "categories": [
       "technology",
       "e-commerce",
       "business-services"
-    ]
+    ],
+    "title": "B2B Order Taking App for Wholesale Distributors & Sales Reps | WizOrder"
   },
   {
     "domainKey": "yonder-template.framer.website",
@@ -892,6 +892,36 @@
       "business"
     ],
     "title": "Yonder - Adventure Tourism Template for Framer"
+  },
+  {
+    "domainKey": "zamp.com",
+    "title": "U.S. Sales Tax Solutions | Zamp",
+    "sourceUrl": "https://zamp.com/products/us-sales-tax",
+    "capturedAt": "2026-10-25T18:58:03.155Z",
+    "keywords": [
+      "sales-tax-solution",
+      "tax-automation",
+      "finance-tech",
+      "saas",
+      "product-page",
+      "corporate",
+      "modern-design",
+      "clean-layout",
+      "hero",
+      "navigation",
+      "faq",
+      "testimonial",
+      "marquee",
+      "integrations",
+      "footer"
+    ],
+    "pageType": "saas product page",
+    "categories": [
+      "finance",
+      "technology",
+      "business-services",
+      "accounting"
+    ]
   },
   {
     "domainKey": "zhipin.com",
