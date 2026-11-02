@@ -423,6 +423,36 @@
     "title": "Example"
   },
   {
+    "domainKey": "foresight-template.webflow.io",
+    "title": "Foresight - Webflow HTML Website Template",
+    "sourceUrl": "https://foresight-template.webflow.io/landing/landing-1",
+    "capturedAt": "2026-11-02T06:22:10.528Z",
+    "keywords": [
+      "landing-page",
+      "hero-section",
+      "carousel",
+      "cards",
+      "navigation",
+      "buttons",
+      "forms",
+      "imagery",
+      "aceternity-spotlight",
+      "corporate",
+      "consulting",
+      "business",
+      "modern",
+      "clean-design",
+      "animated"
+    ],
+    "pageType": "consulting landing page",
+    "categories": [
+      "business",
+      "consulting",
+      "technology",
+      "marketing"
+    ]
+  },
+  {
     "domainKey": "freehand.ai",
     "sourceUrl": "https://www.freehand.ai/global-trade",
     "pageType": "saas product page",
@@ -745,9 +775,8 @@
   },
   {
     "domainKey": "revolve-template.webflow.io",
-    "title": "Revolve - Webflow HTML Website Template",
     "sourceUrl": "https://revolve-template.webflow.io/landing/landing-1",
-    "capturedAt": "2026-11-02T06:21:19.615Z",
+    "pageType": "b2b saas landing",
     "keywords": [
       "landing-page",
       "b2b",
@@ -765,13 +794,14 @@
       "cards",
       "input"
     ],
-    "pageType": "b2b saas landing",
+    "capturedAt": "2026-11-02T06:21:19.615Z",
     "categories": [
       "technology",
       "business",
       "sustainability",
       "logistics"
-    ]
+    ],
+    "title": "Revolve - Webflow HTML Website Template"
   },
   {
     "domainKey": "stripe.com",
