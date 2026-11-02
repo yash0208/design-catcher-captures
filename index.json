@@ -744,6 +744,36 @@
     "title": "React Bits - Liquid Ether"
   },
   {
+    "domainKey": "revolve-template.webflow.io",
+    "title": "Revolve - Webflow HTML Website Template",
+    "sourceUrl": "https://revolve-template.webflow.io/landing/landing-1",
+    "capturedAt": "2026-11-02T06:21:19.615Z",
+    "keywords": [
+      "landing-page",
+      "b2b",
+      "saas",
+      "supply-chain",
+      "sustainability",
+      "logistics",
+      "auditing",
+      "emission-tracking",
+      "modern",
+      "clean",
+      "corporate",
+      "hero",
+      "cta",
+      "cards",
+      "input"
+    ],
+    "pageType": "b2b saas landing",
+    "categories": [
+      "technology",
+      "business",
+      "sustainability",
+      "logistics"
+    ]
+  },
+  {
     "domainKey": "stripe.com",
     "sourceUrl": "https://stripe.com/en-ca",
     "pageType": "fintech landing page",
@@ -895,9 +925,8 @@
   },
   {
     "domainKey": "zamp.com",
-    "title": "U.S. Sales Tax Solutions | Zamp",
     "sourceUrl": "https://zamp.com/products/us-sales-tax",
-    "capturedAt": "2026-10-25T18:58:03.155Z",
+    "pageType": "saas product page",
     "keywords": [
       "sales-tax-solution",
       "tax-automation",
@@ -915,13 +944,14 @@
       "integrations",
       "footer"
     ],
-    "pageType": "saas product page",
+    "capturedAt": "2026-10-25T18:58:03.155Z",
     "categories": [
       "finance",
       "technology",
       "business-services",
       "accounting"
-    ]
+    ],
+    "title": "U.S. Sales Tax Solutions | Zamp"
   },
   {
     "domainKey": "zhipin.com",
