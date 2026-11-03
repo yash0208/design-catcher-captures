@@ -424,9 +424,8 @@
   },
   {
     "domainKey": "foresight-template.webflow.io",
-    "title": "Foresight - Webflow HTML Website Template",
     "sourceUrl": "https://foresight-template.webflow.io/landing/landing-1",
-    "capturedAt": "2026-11-02T06:22:10.528Z",
+    "pageType": "consulting landing page",
     "keywords": [
       "landing-page",
       "hero-section",
@@ -444,13 +443,14 @@
       "clean-design",
       "animated"
     ],
-    "pageType": "consulting landing page",
+    "capturedAt": "2026-11-02T06:22:10.528Z",
     "categories": [
       "business",
       "consulting",
       "technology",
       "marketing"
-    ]
+    ],
+    "title": "Foresight - Webflow HTML Website Template"
   },
   {
     "domainKey": "freehand.ai",
@@ -676,6 +676,35 @@
       "business"
     ],
     "title": "Job Hunter › Issues"
+  },
+  {
+    "domainKey": "mirzam.com",
+    "title": "Mirzam Chocolate",
+    "sourceUrl": "https://mirzam.com/",
+    "capturedAt": "2026-11-03T15:01:09.472Z",
+    "keywords": [
+      "e-commerce",
+      "chocolate",
+      "confectionery",
+      "brand-homepage",
+      "landing-page",
+      "hero",
+      "carousel",
+      "cards",
+      "navigation",
+      "footer",
+      "modern",
+      "premium",
+      "artisanal",
+      "image-heavy"
+    ],
+    "pageType": "e-commerce homepage",
+    "categories": [
+      "e-commerce",
+      "food-beverage",
+      "retail",
+      "specialty-goods"
+    ]
   },
   {
     "domainKey": "moodle.concordia.ca",
