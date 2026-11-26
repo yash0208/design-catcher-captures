@@ -210,6 +210,36 @@
     "title": "Brand Design & Web Development Agency | Better Mistakes"
   },
   {
+    "domainKey": "browserextractor.com",
+    "title": "Browser Extractor | Inspect, edit and audit any website",
+    "sourceUrl": "https://www.browserextractor.com/",
+    "capturedAt": "2026-11-26T22:33:46.204Z",
+    "keywords": [
+      "landing-page",
+      "saas",
+      "product-page",
+      "developer-tool",
+      "web-design",
+      "dark-mode",
+      "glassmorphism",
+      "modern",
+      "hero",
+      "pricing",
+      "feature-grid",
+      "faq",
+      "buttons",
+      "card",
+      "animated"
+    ],
+    "pageType": "saas marketing",
+    "categories": [
+      "technology",
+      "software",
+      "web-development",
+      "design-tools"
+    ]
+  },
+  {
     "domainKey": "cavada-template.webflow.io",
     "sourceUrl": "https://cavada-template.webflow.io/",
     "pageType": "coffee & bakery landing",
@@ -679,9 +709,8 @@
   },
   {
     "domainKey": "mirzam.com",
-    "title": "Mirzam Chocolate",
     "sourceUrl": "https://mirzam.com/",
-    "capturedAt": "2026-11-03T15:01:09.472Z",
+    "pageType": "e-commerce homepage",
     "keywords": [
       "e-commerce",
       "chocolate",
@@ -698,13 +727,14 @@
       "artisanal",
       "image-heavy"
     ],
-    "pageType": "e-commerce homepage",
+    "capturedAt": "2026-11-03T15:01:09.472Z",
     "categories": [
       "e-commerce",
       "food-beverage",
       "retail",
       "specialty-goods"
-    ]
+    ],
+    "title": "Mirzam Chocolate"
   },
   {
     "domainKey": "moodle.concordia.ca",
