@@ -211,9 +211,8 @@
   },
   {
     "domainKey": "browserextractor.com",
-    "title": "Browser Extractor | Inspect, edit and audit any website",
     "sourceUrl": "https://www.browserextractor.com/",
-    "capturedAt": "2026-11-26T22:33:46.204Z",
+    "pageType": "saas marketing",
     "keywords": [
       "landing-page",
       "saas",
@@ -231,13 +230,14 @@
       "card",
       "animated"
     ],
-    "pageType": "saas marketing",
+    "capturedAt": "2026-11-26T22:33:46.204Z",
     "categories": [
       "technology",
       "software",
       "web-development",
       "design-tools"
-    ]
+    ],
+    "title": "Browser Extractor | Inspect, edit and audit any website"
   },
   {
     "domainKey": "cavada-template.webflow.io",
@@ -268,6 +268,36 @@
       "retail"
     ],
     "title": "Cavada - Coffee & Bakery Webflow Template powered by TheSprkl UI Kit."
+  },
+  {
+    "domainKey": "coloracci.ai",
+    "title": "Coloracci - Pantone Finder, Brand Colors & AI Palette Tools",
+    "sourceUrl": "https://coloracci.ai/",
+    "capturedAt": "2026-11-26T22:35:26.236Z",
+    "keywords": [
+      "design-tools",
+      "color-palette",
+      "ai-tools",
+      "pantone",
+      "brand-colors",
+      "landing-page",
+      "dark-mode",
+      "modern",
+      "gradient",
+      "hero",
+      "navbar-sticky",
+      "cards",
+      "video",
+      "saas",
+      "chrome-extension"
+    ],
+    "pageType": "saas marketing",
+    "categories": [
+      "technology",
+      "design",
+      "software",
+      "creative"
+    ]
   },
   {
     "domainKey": "console.cloud.google.com",
